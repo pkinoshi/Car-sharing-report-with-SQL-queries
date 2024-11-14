@@ -13,22 +13,18 @@ Click [here](https://drive.google.com/drive/folders/1rhjtxJPSgr_PBSoAJanmThFUhbq
 
 ## SQL Queries
 
-1. **Highest Demand Rate in 2017:**
-   - Query to find the date and time with the highest demand rate in 2017.
+1. **a. Please tell me which date and time we had the highest demand rate in 2017.**
 
-2. **Average Demand Rates by Weekday, Month, and Season:**
-   - Query to find the highest and lowest average demand rates by weekday, month, and season in 2017.
+2. **Give me a table containing the name of the weekday, month, and season in which we had the highest and lowest average demand throughout 2017. Please include the calculated average demand values as well.**
 
-3. **Hourly Demand Rates by Weekday in 2017:**
-   - Query to find the average demand rate by hour for a selected weekday in 2017.
+3. **For the weekday(s) selected in (2), please give me a table showing the average demand we had at different hours of that weekday throughout 2017. Please sort the results in descending order based on the average demand.**
 
-4. **Weather Analysis for 2017:**
-   - Query to analyze weather conditions in 2017, including the prevalence of cold, mild, or hot weather, and the average, highest, and lowest wind speed and humidity by month.
-
-5. **Average Demand Rates by Weather Category:**
-   - Query to analyze the demand rate by different weather categories, such as cold, mild, or hot weather, in 2017.
-
-
+4. **a. Please tell me what the weather was like in 2017. Was it mostly cold, mild, or hot?**
+   - b. which weather condition (shown in the weather column) was the most prevalent in 2017?.
+   - c. What was the average, highest, and lowest wind speed and humidity for each month in 2017? Please organize this information in two tables for the wind speed and humidity.
+   - d. Please also give me a table showing the average demand for each cold, mild, and hot weather in 2017 sorted in descending order based on their average demand.
+   
+5. **Give me another table showing the information requested in (4) for the month we had the highest average demand in 2017 so that I can compare it with other months.**
 
 
 
