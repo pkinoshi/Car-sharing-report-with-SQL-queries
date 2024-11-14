@@ -27,5 +27,5 @@ Click [here](https://drive.google.com/drive/folders/1rhjtxJPSgr_PBSoAJanmThFUhbq
 5. **Give me another table showing the information requested in (4) for the month we had the highest average demand in 2017 so that I can compare it with other months.**
 
 
-
+## Author
 [Adura Kinoshi](www.linkedin.com/in/adurakinoshi)
