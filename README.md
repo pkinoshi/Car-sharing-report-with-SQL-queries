@@ -6,7 +6,11 @@ This repository includes SQL queries and documentation to analyze a car-sharing 
 
 - **SQL_queries.sql**: Contains SQL queries used to explore the dataset and address key business questions.
 - **Data_Model_ERD.png**: An entity-relationship diagram (ERD) that visualizes the data model and the relationships between tables.
+  ![image](https://github.com/user-attachments/assets/d443e97b-aea4-4ca1-89ab-1ad3509e4dcc)
+
 - **Data_Dictionary.md**: A document detailing the structure and contents of each table in the dataset.
+  ![image](https://github.com/user-attachments/assets/ea099a9d-076b-4cda-853c-03dcfb65fdd6)
+ 
 - **README.md**: An overview of the repository with instructions for accessing and using the SQL queries.
 
 Click [here](https://drive.google.com/drive/folders/1rhjtxJPSgr_PBSoAJanmThFUhbqUnYn1?usp=sharing)
