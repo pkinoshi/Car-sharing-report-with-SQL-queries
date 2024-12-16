@@ -1,4 +1,4 @@
-# Car-sharing-report-with-SQL-queries
+# Car-sharing-report-with-SQL-queries and Google Sheets
 
 This repository includes SQL queries and documentation to analyze a car-sharing dataset. The dataset provides hourly information on customer demand, weather conditions, and temperature, covering the period from January 2017 to August 2018.
 
